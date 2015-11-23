@@ -596,4 +596,5 @@
 
   <project path="device/asus/a500cg" name="knone1/android_device_asus_a500cg" revision="cm12.1" />
   <project path="bootable/recovery-twrp" name="knone1/android_bootable_recovery-twrp" revision="cm12.1" />
+  <project path="kernel/asus/a500cg" name="knone1/android_kernel_asus_a500cg" revision="kitkat" />
 </manifest>
